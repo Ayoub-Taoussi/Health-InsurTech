@@ -25,8 +25,7 @@ streamlit run app.py
 ## Comptes de démo
 | Utilisateur | Mot de passe | Rôle |
 |-------------|-------------|------|
-| admin       | admin123    | Admin (accès logs) |
-| demo        | demo2024    | Utilisateur standard |
+| admin       | admin   | Admin (accès logs) |
 
 ## Conformité RGPD
 - Aucune donnée PII dans le modèle (NSS, email, IP, nom/prénom exclus)
