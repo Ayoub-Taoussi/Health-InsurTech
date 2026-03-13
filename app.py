@@ -70,7 +70,7 @@ button:focus, input:focus, select:focus { outline: 3px solid #FFC107 !important;
 
 # ── Auth simple ───────────────────────────────────────────────────────────────
 USERS = {
-    "admin": hashlib.sha256("admin123".encode()).hexdigest(),
+    "admin": hashlib.sha256("admin".encode()).hexdigest(),
     "demo":  hashlib.sha256("demo2024".encode()).hexdigest(),
 }
 
